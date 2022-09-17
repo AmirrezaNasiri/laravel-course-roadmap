@@ -5,6 +5,82 @@ A Roadmap for my Laravel Course
  - Being familiar with programming approach
  - Having a few weeks of experience with PHP
 
+## Sessions
+
+---
+
+### Intro & The Web (I)
+- Getting to Know Each Other
+- Their Path and Experiences
+- Backend Role Description
+- Describing Teaching Method
+- Introducing Roadmap
+- Priorityzing the Roadmap Points
+- Give Overall Example of the Internet (telephoning)
+- Request Flow in Internet and Web
+- Explain IP and Servers (I)
+- Explain DNS (I)
+- Explain HTTP Protocol (I)
+- Explain Webserver and Browser (I)
+
+### HTML and JS (I)
+- Layouting
+- Forms
+- Tables
+- Variables, functions, types, etc.
+- API request and query selector
+
+### Environment (I)
+- Why Should We Know?
+- Processes
+- CLI
+- Exit Codes
+- Users and Permissions
+- Basic Commands (cd, cat, ls, nano, cp, rm, mv, mkdir, touch, curl, apt, ping)
+- Installing L/XAMPP 
+
+### Version Controlling (I)
+- Why?
+- Initiating
+- Adding/Ignoring
+- Commiting
+- Pushing
+- Creating Repository
+- Stashing
+
+---
+
+### The Web and HTTP Protocol
+- Explain HTTP Protocol (II)
+  - Methods & Idempotency
+  - Status Codes
+  - Headers
+- Explain Loadbalancing (I)
+- Explain 
+
+### Version Controlling (II)
+- Branching Best Practices
+- Commit Messages
+- Force Push
+- Code Review
+- Tagging and Versioning
+- Bisect and Blaming
+
+### Environment (II)
+- L/XAMPP, Vagrant, VM, or Docker?
+- Explain Basics
+- Install Docker
+- 
+
+
+
+
+
+
+
+
+
+
 ## Roadmap
 
 ### Basics of Internet and Web
