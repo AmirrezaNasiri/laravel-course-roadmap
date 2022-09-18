@@ -75,36 +75,148 @@ A Roadmap for my Laravel Course
 - Status Codes
 - Headers
 - APIs
-##### Basics of PHP
-1. Why?
-1. Syntax, Functions, etc.
-1. Simple Routing
-1. Simple View
-1. Simple API
-1. PSRs
-1. Composer
+- Postman
+##### PHP (I)
+- Why?
+- Syntax, Functions, etc.
+- Simple Routing
+- Simple View
+- Simple API
+- Object-oriented Programming
+- PSRs
+- Composer
 
 #### 2
 ##### Database (MySQL)
-1. Explain RDBMS
-1. Explain ACID 👶
-1. Primary Key, Foreign Key, Constraint, Procedures, Triggers, etc. 👶
-1. INSERT
-1. SELECT, JOIN, WHERE, etc. 👶
-1. UPDATE
-1. DELETE
+- Why?
+- Explain RDBMS
+- Explain ACID 👶
+- Primary Key, Foreign Key, Constraint, Procedures, Triggers, etc. 👶
+- INSERT
+- SELECT, JOIN, WHERE, etc. 👶
+- UPDATE
+- DELETE
+##### PHP (II)
+- Why?
+- Interacting with database
 
 #### 3
-##### Laravel
+##### PHP (III)
+- Core Functions
+- Session and Cookies
+- Enryption, Encoding and Hashing
+- Working With Files
+- SOLID Principle
+- Interface and traits
+- Abstract and final classes
+- Working with JSON
+##### Laravel (I)
+- Why?
+- Setup
+- Development Methodology
+- Request Flow
 
 #### 4
+##### Laravel (II)
+- Routes
+- Controllers, Request, and Response
+- Views and Blade Templating Engine
+- Tinker
+- Configuration
+- Versioning (.env, codes, database)
+- Migrations
+- Raw Query
+- Eloquent Models
+
+#### 5
+##### Laravel (III)
+- Form Building
+- CSRF
+- Relations
+- Factories
+- Seeding
+- Authentication
+- Caching
+
+#### 6
+##### Laravel (IV)
+- Events and Listeners
+- Wrap Up and Training
+- File and Storage
+- Sending Notifications
+- Uploading
+
+#### 7
 ##### Security (I)
+- Why?
 - Reflective and Stored XSS
 - SQL Injection
+- CSRF
+- CORS
+##### Refactoring (I)
+- Refactoring
+##### Extra
+- Regex
 
 ---
 
 ### Phase 0x2: 😑 Getting Hands Dirty
+
+
+#### 2
+##### Laravel (V)
+- Events, Listeners and Subscribers
+- Queueing
+- Scheduling
+- IoC, Facades and Service Container
+- Form Request and API Resource
+- HTTP Calls
+
+#### 3
+##### Laravel (VI)
+- Common Design Patterns
+- Implementations in Laravel
+- Diving a Little Bit in Laravel
+##### DX (I)
+- Debugging
+- Code Refactoring
+- Commenting Practices
+- Documenting
+
+#### 4
+##### Checkpoint
+- Wrapping Up
+##### DX (II)
+- ?Researching
+- ?Linting
+
+#### 5
+##### Redis
+- Why?
+- Using For Cache and Queues
+##### Sockets
+- Why?
+- Public Channels
+- Authentication
+- Private Channels
+
+#### 6
+##### Automated Testing (I)
+- Why?
+- Basics of Testing
+- TDD
+- Testing APIs
+- Testing views
+
+#### 7
+##### Automated Testing (II)
+- Mocking and Fakes
+- Happy Path and Edge-Case Tests
+- Testing, Testing, and Testing...
+
+--- 
+
+### Phase 0x3: 🤬 Wrestling
 #### 1
 ##### Version Controlling (II)
 - Branching Best Practices
@@ -113,124 +225,38 @@ A Roadmap for my Laravel Course
 - Code Review
 - Tagging and Versioning
 - Bisect and Blaming
-##### Blade
-
-
---- 
-
-### Phase 0x3: 🤬 Wrestling
-#### 1
+- 
+#### 3
 ##### Environment (III)
 - Why?
 - Explain Basics
 - Installing Docker
 - Writing A Simple Dockerfile
 - Deploying it
-
-#### 2
-##### Security (II)
-- CORS
-
----
-
-## Topics
-
-### Intro
-
-
-
-
-### HTML and JS (I)
-- Picking an IDE
-- Layouting
-- Forms
-- Tables
-- Variables, functions, types, etc.
-- API request and query selector
-
-### Environment (I)
-
-
-
-
----
-
-
-
-
-
-- 
-
-
-
-
-
-
-
-
-
-
-## Roadmap
-
-### Basics of Internet and Web
-1. Give an overall example of telephoning
-1. Talk about request flow in web
-1. Explain Internet Protocol and routing
-1. Explain about server and IP address
-1. Explain DNS
-1. Explain Web Server
-1. Explain Browser
-1. Explain HTTP Protocol
-1. Explain Status Codes
-1. Explain HTTP Methods
-
-### Basics of HTML5
-1. Layouting
-1. Forms
-1. Tables
-1. We'll learn about templating later
-
-### Basics of JavaScript
-1. Vriables, functions and types
-1. API requests and query selector
-
-### Version Controlling (git)
-1. Staging
-1. Adding and Ignoring
-1. Commit
-1. Branching
-1. Tagging and Versioning
-1. Push
-1. Force Push
-1. Stash
-1. Bisect and Blaming
-
-
-
-### APIs
-1. REST Api
-1. GraphQL
-
-
-
-### Development Principles
-1. SOLID
-1. Design Patterns
-1. Code Quality
-1. Linting
-
-
-
-### Docker
-1. 
-
-### Web Security
-1. 
-
-### Other Topics
 - SSH
-- Private/Public Key
-- Hashing
-- Encoding/Decoding
-- Encryption/Decryption
-- Regex
+
+#### 3
+##### Security (II)
+- Information Disclousure
+- Outdated Packages
+##### Refactoring (II)
+- Refactoring
+##### Reserved
+- [Reserved for Extended Topics]
+
+#### 4
+##### Laravel (VII)
+- Profiling
+- Optimizing
+##### Database (II)
+- In-depth
+- Table Scanning and Locking Mechanism
+- `EXPLAIN` And Optimization
+
+#### 5
+##### Reserved
+- [Reserved for Extended Topics]
+##### Checkpoint
+- Wrapping Up
+- Clues for Future Researches
+- End
