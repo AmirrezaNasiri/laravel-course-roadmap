@@ -9,38 +9,54 @@ A Roadmap for my Laravel Course
 
 ---
 
-### Intro & The Web (I)
-- Getting to Know Each Other
+### Phase 0x0: 🤓 Intro
+#### 1
+##### Preparation
+- Slides
+- Examples In Simple Words
+- Topic Priorityzing Forms
+##### Outcome
+- Knowing their career
+- Getting familiar with behind-the-scene
+##### Next Session Tasks
+- List some [very basic] technologies related to their work with the problems they solve (+1 Research)
+- Make a basic HTML template (+1 Involving)
+##### Content
+###### Introduction
+- Getting To Know Each Other
 - Their Path and Experiences
 - Backend Role Description
 - Describing Teaching Method
 - Introducing Roadmap
 - Priorityzing the Roadmap Points
-- Give Overall Example of the Internet (telephoning)
+###### The Web (I)
+- Give Overall Example of the Internet (telephoning) 👶
 - Request Flow in Internet and Web
-- Explain IP and Servers (I)
-- Explain DNS (I)
-- Explain HTTP Protocol (I)
-- Explain Webserver and Browser (I)
-
-### HTML and JS (I)
+- Explain IP and Servers 👶
+- Explain DNS 👶
+- Explain HTTP Protocol 👶
+- Explain Webserver and Browser 👶
+###### Environment (I)
+- Picking an IDE
+###### Basic HTML
 - Layouting
 - Forms
 - Tables
+
+#### 2
+##### Basic JS
 - Variables, functions, types, etc.
 - API request and query selector
-
-### Environment (I)
-- Why Should We Know?
-- Processes
+##### Environment (II)
+- Why? 👶
+- Processes 👶
 - CLI
 - Exit Codes
-- Users and Permissions
-- Basic Commands (cd, cat, ls, nano, cp, rm, mv, mkdir, touch, curl, apt, ping)
+- Users and Permissions 👶
+- Basic Commands (ssh, cd, cat, ls, nano, cp, rm, mv, mkdir, touch, curl, apt, ping)
 - Installing L/XAMPP 
-
-### Version Controlling (I)
-- Why?
+##### Version Controlling (I)
+- Why? 👶
 - Initiating
 - Adding/Ignoring
 - Commiting
@@ -50,26 +66,99 @@ A Roadmap for my Laravel Course
 
 ---
 
-### The Web and HTTP Protocol
-- Explain HTTP Protocol (II)
-  - Methods & Idempotency
-  - Status Codes
-  - Headers
-- Explain Loadbalancing (I)
-- Explain 
+### Phase 0x1: ☺ Starting The Journey
 
-### Version Controlling (II)
+#### 1
+##### The Web (II)
+- Protocol 👶
+- Methods & Idempotency
+- Status Codes
+- Headers
+- APIs
+##### Basics of PHP
+1. Why?
+1. Syntax, Functions, etc.
+1. Simple Routing
+1. Simple View
+1. Simple API
+1. PSRs
+1. Composer
+
+#### 2
+##### Database (MySQL)
+1. Explain RDBMS
+1. Explain ACID 👶
+1. Primary Key, Foreign Key, Constraint, Procedures, Triggers, etc. 👶
+1. INSERT
+1. SELECT, JOIN, WHERE, etc. 👶
+1. UPDATE
+1. DELETE
+
+#### 3
+##### Laravel
+
+#### 4
+##### Security (I)
+- Reflective and Stored XSS
+- SQL Injection
+
+---
+
+### Phase 0x2: 😑 Getting Hands Dirty
+#### 1
+##### Version Controlling (II)
 - Branching Best Practices
 - Commit Messages
 - Force Push
 - Code Review
 - Tagging and Versioning
 - Bisect and Blaming
+##### Blade
 
-### Environment (II)
-- L/XAMPP, Vagrant, VM, or Docker?
+
+--- 
+
+### Phase 0x3: 🤬 Wrestling
+#### 1
+##### Environment (III)
+- Why?
 - Explain Basics
-- Install Docker
+- Installing Docker
+- Writing A Simple Dockerfile
+- Deploying it
+
+#### 2
+##### Security (II)
+- CORS
+
+---
+
+## Topics
+
+### Intro
+
+
+
+
+### HTML and JS (I)
+- Picking an IDE
+- Layouting
+- Forms
+- Tables
+- Variables, functions, types, etc.
+- API request and query selector
+
+### Environment (I)
+
+
+
+
+---
+
+
+
+
+
 - 
 
 
@@ -116,25 +205,13 @@ A Roadmap for my Laravel Course
 1. Stash
 1. Bisect and Blaming
 
-### Basics of PHP
-1. Syntax, Functions, etc.
-1. PSRs
-1. Composer
-1. Simple router
-1. Simple middleware
+
 
 ### APIs
 1. REST Api
 1. GraphQL
 
-### Database (MySQL)
-1. Explain RDBMS
-1. Explain ACID
-1. Primary Key, Foreign Key, Constraint, Procedures, Triggers, etc.
-1. INSERT
-1. SELECT, JOIN, WHERE, etc.
-1. UPDATE
-1. DELETE
+
 
 ### Development Principles
 1. SOLID
