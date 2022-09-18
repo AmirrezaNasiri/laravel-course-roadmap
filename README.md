@@ -2,15 +2,13 @@
 A Roadmap for my Laravel Course
 
 ## Requirements
- - Being familiar with programming approach
- - Having a few weeks of experience with PHP
+ - Being familiar with the programming approach
+ - Having a few days of experience with PHP
 
 ## Sessions
 
----
-
 ### Phase 0x0: 🤓 Intro
-#### 1
+#### 1 📑
 ##### Preparation
 - Slides
 - Examples In Simple Words
@@ -19,7 +17,7 @@ A Roadmap for my Laravel Course
 - Knowing their career
 - Getting familiar with behind-the-scene
 ##### Next Session Tasks
-- List some [very basic] technologies related to their work with the problems they solve (+1 Research)
+- List some fundamental technologies related to their work with the problems they solve (+1 Research)
 - Make a basic HTML template (+1 Involving)
 ##### Content
 ###### Introduction
@@ -28,10 +26,10 @@ A Roadmap for my Laravel Course
 - Backend Role Description
 - Describing Teaching Method
 - Introducing Roadmap
-- Priorityzing the Roadmap Points
+- Prioritizing the Roadmap Points
 ###### The Web (I)
-- Give Overall Example of the Internet (telephoning) 👶
-- Request Flow in Internet and Web
+- Give an Overall Example of the Internet (telephoning) 👶
+- Request Flow on the Internet and Web
 - Explain IP and Servers 👶
 - Explain DNS 👶
 - Explain HTTP Protocol 👶
@@ -43,7 +41,7 @@ A Roadmap for my Laravel Course
 - Forms
 - Tables
 
-#### 2
+#### 2 📑
 ##### Basic JS
 - Variables, functions, types, etc.
 - API request and query selector
@@ -59,7 +57,7 @@ A Roadmap for my Laravel Course
 - Why? 👶
 - Initiating
 - Adding/Ignoring
-- Commiting
+- Committing
 - Pushing
 - Creating Repository
 - Stashing
@@ -68,7 +66,7 @@ A Roadmap for my Laravel Course
 
 ### Phase 0x1: ☺ Starting The Journey
 
-#### 1
+#### 1 📑
 ##### The Web (II)
 - Protocol 👶
 - Methods & Idempotency
@@ -86,7 +84,7 @@ A Roadmap for my Laravel Course
 - PSRs
 - Composer
 
-#### 2
+#### 2 📑
 ##### Database (MySQL)
 - Why?
 - Explain RDBMS
@@ -98,13 +96,13 @@ A Roadmap for my Laravel Course
 - DELETE
 ##### PHP (II)
 - Why?
-- Interacting with database
+- Interacting with the database
 
-#### 3
+#### 3 📑
 ##### PHP (III)
 - Core Functions
 - Session and Cookies
-- Enryption, Encoding and Hashing
+- Encryption, Encoding, and Hashing
 - Working With Files
 - SOLID Principle
 - Interface and traits
@@ -116,7 +114,7 @@ A Roadmap for my Laravel Course
 - Development Methodology
 - Request Flow
 
-#### 4
+#### 4 📑
 ##### Laravel (II)
 - Routes
 - Controllers, Request, and Response
@@ -128,7 +126,7 @@ A Roadmap for my Laravel Course
 - Raw Query
 - Eloquent Models
 
-#### 5
+#### 5 📑
 ##### Laravel (III)
 - Form Building
 - CSRF
@@ -138,7 +136,7 @@ A Roadmap for my Laravel Course
 - Authentication
 - Caching
 
-#### 6
+#### 6 📑
 ##### Laravel (IV)
 - Events and Listeners
 - Wrap Up and Training
@@ -146,7 +144,7 @@ A Roadmap for my Laravel Course
 - Sending Notifications
 - Uploading
 
-#### 7
+#### 7 📑
 ##### Security (I)
 - Why?
 - Reflective and Stored XSS
@@ -161,18 +159,16 @@ A Roadmap for my Laravel Course
 ---
 
 ### Phase 0x2: 😑 Getting Hands Dirty
-
-
-#### 2
+#### 1 📑
 ##### Laravel (V)
-- Events, Listeners and Subscribers
+- Events, Listeners, and Subscribers
 - Queueing
 - Scheduling
-- IoC, Facades and Service Container
+- IoC, Facades, and Service Container
 - Form Request and API Resource
 - HTTP Calls
 
-#### 3
+#### 2 📑
 ##### Laravel (VI)
 - Common Design Patterns
 - Implementations in Laravel
@@ -183,14 +179,7 @@ A Roadmap for my Laravel Course
 - Commenting Practices
 - Documenting
 
-#### 4
-##### Checkpoint
-- Wrapping Up
-##### DX (II)
-- ?Researching
-- ?Linting
-
-#### 5
+#### 3 📑
 ##### Redis
 - Why?
 - Using For Cache and Queues
@@ -200,7 +189,14 @@ A Roadmap for my Laravel Course
 - Authentication
 - Private Channels
 
-#### 6
+#### 4 📑
+##### Checkpoint
+- Wrapping Up
+##### DX (II)
+- ?Researching
+- ?Linting
+
+#### 5 📑
 ##### Automated Testing (I)
 - Why?
 - Basics of Testing
@@ -208,7 +204,7 @@ A Roadmap for my Laravel Course
 - Testing APIs
 - Testing views
 
-#### 7
+#### 6 📑
 ##### Automated Testing (II)
 - Mocking and Fakes
 - Happy Path and Edge-Case Tests
@@ -217,7 +213,7 @@ A Roadmap for my Laravel Course
 --- 
 
 ### Phase 0x3: 🤬 Wrestling
-#### 1
+#### 1 📑
 ##### Version Controlling (II)
 - Branching Best Practices
 - Commit Messages
@@ -226,7 +222,7 @@ A Roadmap for my Laravel Course
 - Tagging and Versioning
 - Bisect and Blaming
 - 
-#### 3
+#### 2 📑
 ##### Environment (III)
 - Why?
 - Explain Basics
@@ -235,16 +231,16 @@ A Roadmap for my Laravel Course
 - Deploying it
 - SSH
 
-#### 3
+#### 3 📑
 ##### Security (II)
-- Information Disclousure
+- Information Disclosure
 - Outdated Packages
 ##### Refactoring (II)
 - Refactoring
 ##### Reserved
 - [Reserved for Extended Topics]
 
-#### 4
+#### 4 📑
 ##### Laravel (VII)
 - Profiling
 - Optimizing
@@ -253,10 +249,10 @@ A Roadmap for my Laravel Course
 - Table Scanning and Locking Mechanism
 - `EXPLAIN` And Optimization
 
-#### 5
+#### 5 📑
 ##### Reserved
 - [Reserved for Extended Topics]
 ##### Checkpoint
 - Wrapping Up
-- Clues for Future Researches
+- Clues for Future Research
 - End
